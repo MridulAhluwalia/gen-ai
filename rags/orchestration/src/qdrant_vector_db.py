@@ -53,6 +53,21 @@ class QdrantVectorDB:
                 print(f"Failed to create collection: {str(e)}")
                 raise RuntimeError(f"Failed to create collection: {str(e)}")
 
+    def recreate_collection(self, collection_name: str) -> None:
+        """Create a new collection."""
+
+        try:
+            self.client.recreate_collection(
+                collection_name=collection_name,
+                vectors_config=VectorParams(
+                    size=self.embedding_size, distance=Distance.COSINE
+                ),
+            )
+            print(f"🎉 Recreated new collection '{collection_name}'.")
+        except Exception as e:
+            print(f"Failed to create collection: {str(e)}")
+            raise RuntimeError(f"Failed to create collection: {str(e)}")
+
     def delete_collection(self, collection_name: str) -> None:
         """Delete an existing collection."""
         try:

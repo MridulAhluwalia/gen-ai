@@ -1,0 +1,10 @@
+21 ::: Les Misérables (1862) ::: Victor Hugo ::: An epic novel about justice, love, and redemption, following ex-convict Jean Valjean in post-revolutionary France.
+22 ::: Don Quixote (1605) ::: Miguel de Cervantes ::: A comedic and philosophical tale of a man who believes he is a knight, setting out on absurd adventures.
+23 ::: A Tale of Two Cities (1859) ::: Charles Dickens ::: A historical novel set during the French Revolution, focusing on themes of sacrifice and resurrection.
+24 ::: The Handmaid's Tale (1985) ::: Margaret Atwood ::: A dystopian vision of a theocratic regime where women are forced into reproductive servitude.
+25 ::: The Picture of Dorian Gray (1890) ::: Oscar Wilde ::: A man remains eternally young while a portrait of him ages and reflects his moral corruption.
+26 ::: The Brothers Karamazov (1880) ::: Fyodor Dostoevsky ::: A philosophical novel exploring faith, doubt, and morality through the lives of three brothers.
+27 ::: The Bell Jar (1963) ::: Sylvia Plath ::: A semi-autobiographical novel about a young woman’s descent into mental illness in 1950s America.
+28 ::: The Count of Monte Cristo (1844) ::: Alexandre Dumas ::: A gripping tale of betrayal, revenge, and justice as a man escapes prison to reclaim his life.
+29 ::: Rebecca (1938) ::: Daphne du Maurier ::: A gothic mystery about a young bride haunted by the memory of her husband’s first wife.
+30 ::: Beloved (1987) ::: Toni Morrison ::: A powerful story about a formerly enslaved woman haunted by the trauma of her past and the ghost of her dead child.

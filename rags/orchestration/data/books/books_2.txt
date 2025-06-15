@@ -1,0 +1,10 @@
+11 ::: The Old Man and the Sea (1952) ::: Ernest Hemingway ::: A short, powerful novel about an aging Cuban fisherman’s epic struggle to catch a giant marlin in the Gulf Stream.
+12 ::: Gone with the Wind (1936) ::: Margaret Mitchell ::: A sweeping historical romance set during the American Civil War, centered on the resilient Scarlett O’Hara.
+13 ::: The Grapes of Wrath (1939) ::: John Steinbeck ::: A powerful depiction of a family’s migration from the Dust Bowl to California during the Great Depression.
+14 ::: Lolita (1955) ::: Vladimir Nabokov ::: A controversial novel told through the voice of a literature professor obsessed with a young girl.
+15 ::: Of Mice and Men (1937) ::: John Steinbeck ::: A tragic story about two displaced migrant workers striving for a better life during the Great Depression.
+16 ::: Catch-22 (1961) ::: Joseph Heller ::: A satirical anti-war novel about the absurdity of military bureaucracy during World War II.
+17 ::: On the Road (1957) ::: Jack Kerouac ::: A defining novel of the Beat Generation, chronicling a series of cross-country adventures filled with jazz, poetry, and freedom.
+18 ::: The Trial (1925) ::: Franz Kafka ::: A surreal and haunting tale about a man arrested and prosecuted by a mysterious authority without ever being told what he's accused of.
+19 ::: The Sun Also Rises (1926) ::: Ernest Hemingway ::: A novel of disillusioned expatriates in post–World War I Europe searching for meaning and purpose.
+20 ::: The Call of the Wild (1903) ::: Jack London ::: A sled dog named Buck is forced to adapt to the brutal wilderness of the Yukon during the Klondike Gold Rush.

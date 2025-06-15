@@ -1,0 +1,10 @@
+51 ::: Animal Farm (1945) ::: George Orwell ::: An allegorical novella that uses a farm of rebelling animals to critique totalitarianism and political corruption.
+52 ::: The Metamorphosis (1915) ::: Franz Kafka ::: A surreal story about Gregor Samsa, who wakes up transformed into a gigantic insect, exploring alienation and identity.
+53 ::: The Outsiders (1967) ::: S.E. Hinton ::: A coming-of-age story about teenage gangs and class conflict in 1960s America.
+54 ::: The Odyssey (8th century BC) ::: Homer ::: An epic Greek poem chronicling Odysseus’s perilous 10-year journey home after the Trojan War.
+55 ::: The Chronicles of Narnia (1950–1956) ::: C.S. Lewis ::: A fantasy series about children who discover a magical land filled with mythical creatures and epic battles between good and evil.
+56 ::: Fahrenheit 451 (1953) ::: Ray Bradbury ::: In a dystopian future, books are banned, and "firemen" burn any that are found; one man begins to question this system.
+57 ::: A Wrinkle in Time (1962) ::: Madeleine L’Engle ::: A young girl travels through time and space to rescue her missing father from a dark force.
+58 ::: The Color Purple (1982) ::: Alice Walker ::: A poignant story about African American women’s struggles and triumphs in early 20th-century rural Georgia.
+59 ::: The Jungle Book (1894) ::: Rudyard Kipling ::: A collection of stories about Mowgli, a boy raised by wolves in the Indian jungle, and his adventures.
+60 ::: Dune (1965) ::: Frank Herbert ::: A sweeping science fiction epic about politics, religion, and ecology on the desert planet Arrakis.

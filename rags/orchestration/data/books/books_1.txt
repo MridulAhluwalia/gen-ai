@@ -1,0 +1,10 @@
+1 ::: To Kill a Mockingbird (1960) ::: Harper Lee ::: A powerful novel about racial injustice and moral growth in the American South, seen through the eyes of a young girl, Scout Finch.
+2 ::: 1984 (1949) ::: George Orwell ::: A dystopian novel that explores totalitarianism, surveillance, and censorship in a world ruled by Big Brother.
+3 ::: Pride and Prejudice (1813) ::: Jane Austen ::: A romantic novel centered on Elizabeth Bennet and her evolving relationship with the proud Mr. Darcy.
+4 ::: The Catcher in the Rye (1951) ::: J.D. Salinger ::: A coming-of-age story following the disaffected teenager Holden Caulfield as he wanders New York City.
+5 ::: The Great Gatsby (1925) ::: F. Scott Fitzgerald ::: A critique of the American Dream set in the Roaring Twenties, told through the eyes of Nick Carraway.
+6 ::: Moby-Dick (1851) ::: Herman Melville ::: A dense, philosophical tale of Captain Ahab’s obsession with hunting the elusive white whale, Moby Dick.
+7 ::: The Hobbit (1937) ::: J.R.R. Tolkien ::: A fantasy adventure about Bilbo Baggins, a reluctant hobbit who joins a quest to reclaim a dwarven treasure from a dragon.
+8 ::: Fahrenheit 451 (1953) ::: Ray Bradbury ::: In a future society where books are banned and burned, one fireman begins to question the system and seek knowledge.
+9 ::: Jane Eyre (1847) ::: Charlotte Brontë ::: A gothic romance that follows the life of an orphaned girl who grows up to become a governess with a mysterious employer.
+10 ::: Crime and Punishment (1866) ::: Fyodor Dostoevsky ::: A psychological novel exploring the mind of a poor student who commits a murder and grapples with guilt and redemption.
